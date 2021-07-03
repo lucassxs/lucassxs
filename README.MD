@@ -8,5 +8,5 @@ Hi, I'm Lucas Stefano 👨‍💻.
 @@I'm a undergraduate Statistics at UEM@@
 + Living in Paraná, Brazil 🇧🇷.
 ! ESS Voluntary, gamer and shitposter
-# 📖 GNU/Linux, cloud computing and web development
+# 📖 GNU/Linux, R and web development
 ```
