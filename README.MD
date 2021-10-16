@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Stefano! 🙋‍♂️
 
-I am an data analyst and Undergraduate Statistics at [State University of Maringá - Maringa, PR, Brazil](https://www.des.uem.br/). 
+I am an data analyst and Undergraduate Statistics at [State University of Maringá - Maringa, PR, Brazil](https://www.des.uem.br/)
 
 <div>
   <a href="https://github.com/lucassxs">
@@ -26,3 +26,4 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
   [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/9279354215426416)
   [<img align="left" width="22px" src="https://ppgbiovegetal.ufms.br/files/2017/06/ORCID-icon.png"/>](https://orcid.org/0000-0001-9573-7555)
   [<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg"/>](https://www.linkedin.com/in/lucasstxs/)
+
