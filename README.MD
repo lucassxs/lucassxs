@@ -12,11 +12,15 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
   <img align="center" alt="lucas-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="lucas-Markdown" height="30" width="40" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg">
   <img align="center" alt="lucas-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mau-GNU/Linux-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
   <img align="center" alt="lucas-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="lucas-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  
   </div>
   
 ### About me:
