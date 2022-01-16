@@ -26,8 +26,7 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
 ### About me:
   
   [<img align="left" width="22px" src="https://github.com/wowchemy/starter-hugo-academic/blob/master/assets/media/icon.png"/>](https://lucassxs.me/)
-  [<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/>](https://twitter.com/_lucasstxs)
+  [<img align="left" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png"/>](https://twitter.com/_lucasstxs)
   [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/9279354215426416)
-  [<img align="left" width="22px" src="https://ppgbiovegetal.ufms.br/files/2017/06/ORCID-icon.png"/>](https://orcid.org/0000-0001-9573-7555)
-  [<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg"/>](https://www.linkedin.com/in/lucasstxs/)
-
+  [<img align="left" width="22px" src="https://www.electrochem.org/wp-content/uploads/2017/11/ORCID-icon.png"/>](https://orcid.org/0000-0001-9573-7555)
+  [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg"/>](https://www.linkedin.com/in/lucasstxs/)
