@@ -16,6 +16,11 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
 | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> | <img style="height:40px; width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
+## Tools
+
+| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> | <img style="height:25px; width: 25px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+| :---: |  :---: | :---: | :---: |
+
 ### About me:
   
   [<img align="left" width="22px" src="https://github.com/wowchemy/starter-hugo-academic/blob/master/assets/media/icon.png"/>](https://lucassxs.me/)
