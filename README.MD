@@ -8,22 +8,14 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
   <!--Linguagens-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassxs&layout=compact&langs_count=16&theme=dark"/>
 <div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="lucas-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="lucas-Markdown" height="30" width="40" src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg">
-  <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg">
-  <img align="center" alt="lucas-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Mau-GNU/Linux-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg">
-  <img align="center" alt="lucas-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="lucas-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="lucas-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  
-  </div>
-  
+
+<p></p>
+
+## Experience
+
+| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> | <img style="height:40px; width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 ### About me:
   
   [<img align="left" width="22px" src="https://github.com/wowchemy/starter-hugo-academic/blob/master/assets/media/icon.png"/>](https://lucassxs.me/)
