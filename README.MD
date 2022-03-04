@@ -18,8 +18,8 @@ I am an data analyst and Undergraduate Statistics at [State University of Maring
 
 ## Tools
 
-| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> | <img style="height:25px; width: 25px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-| :---: |  :---: | :---: | :---: |
+| <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> | <img style="height:25px; width: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /> | <img style="height:40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> | <img style="height:40px; width: 40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> | <img style="height:35px; width:35px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+| :---: |  :---: | :---: | :---: | :---: |
 
 ### About me:
   
