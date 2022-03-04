@@ -1,3 +1,6 @@
+##
+![](https://komarev.com/ghpvc/?username=lucassxs&color=blueviolet&style=for-the-badge)
+
 ### Hi, I'm Lucas Stefano! 🙋‍♂️
 
 I am an data analyst and Undergraduate Statistics at [State University of Maringá - Maringa, PR, Brazil](https://www.des.uem.br/)
