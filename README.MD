@@ -7,7 +7,7 @@
 ### Undergraduate Statistician, Business Intelligence Assistant and Free Software Activist.
 
 
-- Bachelor in Statistics (2020 - Current, State University of Maringa)
+- Bachelor in Statistics (Current, State University of Maringa)
 
 Currently researching Biostatistics using large models in R.
 
